@@ -1,7 +1,6 @@
 # Stock Bot
 
 A bot which texts you about stock price & percentage changes in Nifty50 every working day at 9:20am and 3:20pm.
-
 <br>
 <br>
 
